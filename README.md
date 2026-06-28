@@ -160,11 +160,11 @@ This project was developed as part of a **Data Engineering Technical Assignment*
 
 ## 👨‍💻 Author
 
-**Abhishek**
+**Abhishek Vashishtha**
 
-LinkedIn: *Add your LinkedIn URL*
+LinkedIn: https://www.linkedin.com/in/vashishtha-abhishek/
 
-GitHub: *Add your GitHub Profile URL*
+GitHub: https://github.com/imdevAbhishek
 
 ---
 
