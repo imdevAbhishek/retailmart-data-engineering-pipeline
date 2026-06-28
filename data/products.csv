@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,500
+P002,Keyboard,Accessories,500
+P003,Monitor,Electronics,800
+P004,Mouse,Accessories,400
+P005,Printer,Electronics,900
+P006,Headphones,Accessories,600
+P007,Webcam,Accessories,700
+P008,USB Drive,Storage,300
+P009,Router,Networking,1500
+P010,SSD 512GB,Storage,3500
+P011,Graphics Card,Electronics,12000
+P012,RAM 16GB,Components,4500
+P013,Power Bank,Accessories,1000
+P014,Smartwatch,Wearables,5000
+P015,Speaker,Audio,2500
