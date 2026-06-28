@@ -25,14 +25,22 @@ RetailMart collects daily sales data from multiple retail stores across India. T
 ## 📂 Project Structure
 
 ```
-RetailMart/
-│── RetailMart.ipynb
-│── sales_data.csv
-│── products.csv
-│── stores.csv
-│── retail_sales.db
-│── requirements.txt
-└── README.md
+retailmart-data-engineering-pipeline/
+│
+├── data/
+│   ├── sales_data.csv
+│   ├── products.csv
+│   └── stores.csv
+│
+├── database/
+│   └── retail_sales.db
+│
+├── notebook/
+│   └── RetailMart.ipynb
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
